@@ -22,6 +22,7 @@ document.getElementById("tugma").onclick = function(){
         .replace("galaba","g'alaba")
         .replace("ganimat","g'animat")
         .replace("oqish","o'qish")
+        .replace("oquv","o'quv")
         // VILOYAT NOMLARI
         .replace("toshkent","Toshkent")
         .replace("andijon","Andijon")
