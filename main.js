@@ -37,6 +37,14 @@ document.getElementById("tugma").onclick = function(){
         .replace("oquvchiman", "o'quvchiman")
         .replace("oquvchiman", "o'quvchiman")
         .replace("bolib", "bo'lib")
+        .replace("bogda","bog'da")
+        .replace("bogida","bog'ida")
+        .replace("boglari","bog'lari")
+        .replace("boglarida","bog'larida")
+        .replace("bolib otgan","bo'lib o'tgan")
+
+
+
 
 
 
