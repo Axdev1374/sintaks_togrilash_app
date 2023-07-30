@@ -26,6 +26,21 @@ document.getElementById("tugma").onclick = function(){
         .replace("oqib","o'qib")
         .replace("bolgan","bo'lgan")
         .replace("olgan","o'lgan")
+        .replace("oqi","o'qi")
+        .replace("garoyib","g'aroyib")
+        .replace("gayrioddiy","g'ayrioddiy")
+        .replace("qoyish", "qo'yish")
+        .replace("qoyishdi", "qo'yishdi")
+        .replace("qoyishgan", "qo'yishgan")
+        .replace("oquvchi", "o'quvchi")
+        .replace("oquvchim", "o'quvchim")
+        .replace("oquvchiman", "o'quvchiman")
+        .replace("oquvchiman", "o'quvchiman")
+        .replace("bolib", "bo'lib")
+
+
+
+
         // VILOYAT NOMLARI
         .replace("toshkent","Toshkent")
         .replace("andijon","Andijon")
