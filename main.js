@@ -71,7 +71,7 @@ document.getElementById("tugma").onclick = function(){
     document.getElementById("belgilar").innerHTML=`------------------------------------------------------------------------------`;
     document.getElementById("quest").innerHTML=`Men to'g'rilagan matn :>> ${true1}`;
     const sCount = true1.split(' ').length ;
-    document.getElementById("words_count").innerHTML=`Siz ${sCount} ta so'z yozdingiz ishonmasangiz sanab ko'ring`
+    document.getElementById("words_count").innerHTML=`Siz ${sCount} ta so'z yozdingiz !!!`
 
 
 
